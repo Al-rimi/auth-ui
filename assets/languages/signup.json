@@ -1,0 +1,282 @@
+{
+    "en": {
+        "head": {
+            "siteLanguage": "en",
+            "description": "Describe your app",
+            "keywords": "Keywords to make your website easier to find",
+            "siteName": "Your webapp name",
+            "title": "Sign Up"
+        },
+        "body": {
+            "font": "english1",
+            "h1": "SignUp",
+            "b1": "Enter",
+            "b2": "Having trouble?",
+            "b3": "Login",
+            "i1": "Username",
+            "i3": "Email",
+            "i2": "Password",
+            "i4": "Confirm Password",
+            "username": {
+                "usernameTaking": "Username is already taken",
+                "usernameNotValidCharacters": "Special characters are not allowed",
+                "usernameNotValidLengthLong": "Maximum length is 30 characters",
+                "usernameNotValidLengthShort": "Minimum length is 3 characters"
+            },
+            "email": {
+                "emailTaking": "Email is already registered",
+                "emailNotValidPattern": "Please enter a valid email address"
+            },
+            "password": {
+                "passwordNoUppercaselowercase": "Must include both UPPER and lower case letters",
+                "passwordNotValidLength": "Must be at least 8 characters long",
+                "passwordsMatch": "Passwords do not match"
+            }
+        }
+    },
+    "ar": {
+        "head": {
+            "siteLanguage": "ar",
+            "description": "وصف التطبيق الخاص بك",
+            "keywords": "الكلمات الرئيسية لجعل موقعك أسهل في العثور عليه",
+            "siteName": "اسم تطبيقك",
+            "title": "التسجيل"
+        },
+        "body": {
+            "font": "arabic1",
+            "h1": "التسجيل",
+            "b1": "أدخل",
+            "b2": "هل تواجه مشكلة؟",
+            "b3": "تسجيل الدخول",
+            "i1": "اسم المستخدم",
+            "i3": "البريد الإلكتروني",
+            "i2": "كلمة المرور",
+            "i4": "تأكيد كلمة المرور",
+            "username": {
+                "usernameTaking": "اسم المستخدم محجوز بالفعل",
+                "usernameNotValidCharacters": "الحروف الخاصة غير مسموح بها",
+                "usernameNotValidLengthLong": "الحد الأقصى للطول هو 30 حرفًا",
+                "usernameNotValidLengthShort": "الحد الأدنى للطول هو 3 أحرف"
+            },
+            "email": {
+                "emailTaking": "البريد الإلكتروني مسجل بالفعل",
+                "emailNotValidPattern": "يرجى إدخال عنوان بريد إلكتروني صالح"
+            },
+            "password": {
+                "passwordNoUppercaselowercase": "يجب أن يتضمن الحروف الكبيرة والصغيرة",
+                "passwordNotValidLength": "يجب أن تكون كلمة المرور مكونة من 8 أحرف على الأقل",
+                "passwordsMatch": "كلمات المرور لا تطابق"
+            }
+        }
+    },
+    "fr": {
+        "head": {
+            "siteLanguage": "fr",
+            "description": "Décrivez votre application",
+            "keywords": "Mots-clés pour rendre votre site Web plus facile à trouver",
+            "siteName": "Le nom de votre application",
+            "title": "S'inscrire"
+        },
+        "body": {
+            "font": "french1",
+            "h1": "S'inscrire",
+            "b1": "Entrer",
+            "b2": "Des problèmes ?",
+            "b3": "Se connecter",
+            "i1": "Nom d'utilisateur",
+            "i3": "Email",
+            "i2": "Mot de passe",
+            "i4": "Confirmer le mot de passe",
+            "username": {
+                "usernameTaking": "Le nom d'utilisateur est déjà pris",
+                "usernameNotValidCharacters": "Les caractères spéciaux ne sont pas autorisés",
+                "usernameNotValidLengthLong": "La longueur maximale est de 30 caractères",
+                "usernameNotValidLengthShort": "La longueur minimale est de 3 caractères"
+            },
+            "email": {
+                "emailTaking": "L'email est déjà enregistré",
+                "emailNotValidPattern": "Veuillez entrer une adresse email valide"
+            },
+            "password": {
+                "passwordNoUppercaselowercase": "Doit inclure à la fois des lettres majuscules et minuscules",
+                "passwordNotValidLength": "Doit comporter au moins 8 caractères",
+                "passwordsMatch": "Les mots de passe ne correspondent pas"
+            }
+        }
+    },
+    "zh": {
+        "head": {
+            "siteLanguage": "zh",
+            "description": "描述您的应用程序",
+            "keywords": "使您的网站更容易被找到的关键字",
+            "siteName": "您的应用程序名称",
+            "title": "注册"
+        },
+        "body": {
+            "font": "chinese1",
+            "h1": "注册",
+            "b1": "请输入",
+            "b2": "遇到问题？",
+            "b3": "登录",
+            "i1": "用户名",
+            "i3": "邮箱",
+            "i2": "密码",
+            "i4": "确认密码",
+            "username": {
+                "usernameTaking": "用户名已被占用",
+                "usernameNotValidCharacters": "不允许特殊字符",
+                "usernameNotValidLengthLong": "最长长度为30个字符",
+                "usernameNotValidLengthShort": "最短长度为3个字符"
+            },
+            "email": {
+                "emailTaking": "邮箱已注册",
+                "emailNotValidPattern": "请输入有效的邮箱地址"
+            },
+            "password": {
+                "passwordNoUppercaselowercase": "必须包含大写和小写字母",
+                "passwordNotValidLength": "必须至少8个字符",
+                "passwordsMatch": "密码不匹配"
+            }
+        }
+    },
+    "ru": {
+        "head": {
+            "siteLanguage": "ru",
+            "description": "Опишите ваше приложение",
+            "keywords": "Ключевые слова, чтобы ваш сайт было легче найти",
+            "siteName": "Название вашего приложения",
+            "title": "Зарегистрироваться"
+        },
+        "body": {
+            "font": "russian1",
+            "h1": "Зарегистрироваться",
+            "b1": "Введите",
+            "b2": "Возникли проблемы?",
+            "b3": "Войти",
+            "i1": "Имя пользователя",
+            "i3": "Электронная почта",
+            "i2": "Пароль",
+            "i4": "Подтвердите пароль",
+            "username": {
+                "usernameTaking": "Имя пользователя уже занято",
+                "usernameNotValidCharacters": "Специальные символы не разрешены",
+                "usernameNotValidLengthLong": "Максимальная длина 30 символов",
+                "usernameNotValidLengthShort": "Минимальная длина 3 символа"
+            },
+            "email": {
+                "emailTaking": "Электронная почта уже зарегистрирована",
+                "emailNotValidPattern": "Пожалуйста, введите действующий адрес электронной почты"
+            },
+            "password": {
+                "passwordNoUppercaselowercase": "Должен содержать как заглавные, так и строчные буквы",
+                "passwordNotValidLength": "Должен содержать не менее 8 символов",
+                "passwordsMatch": "Пароли не совпадают"
+            }
+        }
+    },
+    "de": {
+        "head": {
+            "siteLanguage": "de",
+            "description": "Beschreiben Sie Ihre App",
+            "keywords": "Schlüsselwörter, um Ihre Website leichter zu finden",
+            "siteName": "Der Name Ihrer Webanwendung",
+            "title": "Registrieren"
+        },
+        "body": {
+            "font": "german1",
+            "h1": "Registrieren",
+            "b1": "Eingeben",
+            "b2": "Haben Sie Probleme?",
+            "b3": "Anmelden",
+            "i1": "Benutzername",
+            "i3": "E-Mail",
+            "i2": "Passwort",
+            "i4": "Passwort bestätigen",
+            "username": {
+                "usernameTaking": "Benutzername ist bereits vergeben",
+                "usernameNotValidCharacters": "Sonderzeichen sind nicht erlaubt",
+                "usernameNotValidLengthLong": "Maximale Länge ist 30 Zeichen",
+                "usernameNotValidLengthShort": "Minimale Länge ist 3 Zeichen"
+            },
+            "email": {
+                "emailTaking": "E-Mail ist bereits registriert",
+                "emailNotValidPattern": "Bitte geben Sie eine gültige E-Mail-Adresse ein"
+            },
+            "password": {
+                "passwordNoUppercaselowercase": "Muss sowohl Groß- als auch Kleinbuchstaben enthalten",
+                "passwordNotValidLength": "Muss mindestens 8 Zeichen lang sein",
+                "passwordsMatch": "Passwörter stimmen nicht überein"
+            }
+        }
+    },
+    "es": {
+        "head": {
+            "siteLanguage": "es",
+            "description": "Describe tu aplicación",
+            "keywords": "Palabras clave para hacer que tu sitio web sea más fácil de encontrar",
+            "siteName": "Nombre de tu aplicación",
+            "title": "Registrarse"
+        },
+        "body": {
+            "font": "spanish1",
+            "h1": "Registrarse",
+            "b1": "Entrar",
+            "b2": "¿Tienes problemas?",
+            "b3": "Iniciar sesión",
+            "i1": "Nombre de usuario",
+            "i3": "Correo electrónico",
+            "i2": "Contraseña",
+            "i4": "Confirmar contraseña",
+            "username": {
+                "usernameTaking": "El nombre de usuario ya está ocupado",
+                "usernameNotValidCharacters": "No se permiten caracteres especiales",
+                "usernameNotValidLengthLong": "La longitud máxima es de 30 caracteres",
+                "usernameNotValidLengthShort": "La longitud mínima es de 3 caracteres"
+            },
+            "email": {
+                "emailTaking": "El correo electrónico ya está registrado",
+                "emailNotValidPattern": "Por favor, ingresa una dirección de correo electrónico válida"
+            },
+            "password": {
+                "passwordNoUppercaselowercase": "Debe incluir letras mayúsculas y minúsculas",
+                "passwordNotValidLength": "Debe tener al menos 8 caracteres",
+                "passwordsMatch": "Las contraseñas no coinciden"
+            }
+        }
+    },
+    "it": {
+        "head": {
+            "siteLanguage": "it",
+            "description": "Descrivi la tua app",
+            "keywords": "Parole chiave per rendere il tuo sito più facile da trovare",
+            "siteName": "Nome della tua app",
+            "title": "Registrati"
+        },
+        "body": {
+            "font": "italian1",
+            "h1": "Registrati",
+            "b1": "Inserisci",
+            "b2": "Hai problemi?",
+            "b3": "Accedi",
+            "i1": "Nome utente",
+            "i3": "Email",
+            "i2": "Password",
+            "i4": "Conferma password",
+            "username": {
+                "usernameTaking": "Nome utente già preso",
+                "usernameNotValidCharacters": "I caratteri speciali non sono consentiti",
+                "usernameNotValidLengthLong": "La lunghezza massima è di 30 caratteri",
+                "usernameNotValidLengthShort": "La lunghezza minima è di 3 caratteri"
+            },
+            "email": {
+                "emailTaking": "Email già registrata",
+                "emailNotValidPattern": "Per favore inserisci una email valida"
+            },
+            "password": {
+                "passwordNoUppercaselowercase": "Deve includere lettere maiuscole e minuscole",
+                "passwordNotValidLength": "Deve essere lunga almeno 8 caratteri",
+                "passwordsMatch": "Le password non corrispondono"
+            }
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "en": {
+        "head": {
+            "siteLanguage": "en",
+            "description": "Describe your app",
+            "keywords": "Keywords to make your website easier to find",
+            "siteName": "Your webapp name",
+            "title": "Login"
+        },
+        "body": {
+            "font": "english1",
+            "h1": "Login",
+            "b1": "Enter",
+            "b2": "Forgot password?",
+            "b3": "Sign up",
+            "i1": "Username or Email",
+            "i2": "Password",
+            "username": {
+                "usernameOrEmailWrong": "Username or email not found"
+            },
+            "password": {
+                "passwordWrong": "Incorrect password"
+            }
+        }
+    },
+    "ar": {
+        "head": {
+            "siteLanguage": "ar",
+            "description": "وصف التطبيق الخاص بك",
+            "keywords": "الكلمات الرئيسية لجعل موقعك أسهل في العثور عليه",
+            "siteName": "اسم تطبيقك",
+            "title": "تسجيل الدخول"
+        },
+        "body": {
+            "font": "arabic1",
+            "h1": "تسجيل الدخول",
+            "b1": "أدخل",
+            "b2": "هل نسيت كلمة المرور؟",
+            "b3": "إنشاء حساب",
+            "i1": "اسم المستخدم أو البريد الإلكتروني",
+            "i2": "كلمة المرور",
+            "username": {
+                "usernameOrEmailWrong": "اسم المستخدم أو البريد الإلكتروني غير موجود"
+            },
+            "password": {
+                "passwordWrong": "كلمة المرور غير صحيحة"
+            }
+        }
+    },
+    "fr": {
+        "head": {
+            "siteLanguage": "fr",
+            "description": "Décrivez votre application",
+            "keywords": "Mots-clés pour rendre votre site Web plus facile à trouver",
+            "siteName": "Le nom de votre application",
+            "title": "Connexion"
+        },
+        "body": {
+            "font": "french1",
+            "h1": "Connexion",
+            "b1": "Entrer",
+            "b2": "Mot de passe oublié ?",
+            "b3": "S'inscrire",
+            "i1": "Nom d'utilisateur ou Email",
+            "i2": "Mot de passe",
+            "username": {
+                "usernameOrEmailWrong": "Nom d'utilisateur ou email introuvable"
+            },
+            "password": {
+                "passwordWrong": "Mot de passe incorrect"
+            }
+        }
+    },
+    "zh": {
+        "head": {
+            "siteLanguage": "zh",
+            "description": "描述您的应用程序",
+            "keywords": "使您的网站更容易被找到的关键字",
+            "siteName": "您的应用程序名称",
+            "title": "登录"
+        },
+        "body": {
+            "font": "chinese1",
+            "h1": "登录",
+            "b1": "请输入",
+            "b2": "忘记密码？",
+            "b3": "注册",
+            "i1": "用户名或邮箱",
+            "i2": "密码",
+            "username": {
+                "usernameOrEmailWrong": "找不到用户名或邮箱"
+            },
+            "password": {
+                "passwordWrong": "密码错误"
+            }
+        }
+    },
+    "ru": {
+        "head": {
+            "siteLanguage": "ru",
+            "description": "Опишите ваше приложение",
+            "keywords": "Ключевые слова, чтобы ваш сайт было легче найти",
+            "siteName": "Название вашего приложения",
+            "title": "Войти"
+        },
+        "body": {
+            "font": "russian1",
+            "h1": "Войти",
+            "b1": "Введите",
+            "b2": "Забыли пароль?",
+            "b3": "Зарегистрироваться",
+            "i1": "Имя пользователя или Email",
+            "i2": "Пароль",
+            "username": {
+                "usernameOrEmailWrong": "Имя пользователя или email не найдено"
+            },
+            "password": {
+                "passwordWrong": "Неверный пароль"
+            }
+        }
+    },
+    "de": {
+        "head": {
+            "siteLanguage": "de",
+            "description": "Beschreiben Sie Ihre App",
+            "keywords": "Schlüsselwörter, um Ihre Website leichter zu finden",
+            "siteName": "Der Name Ihrer Webanwendung",
+            "title": "Anmelden"
+        },
+        "body": {
+            "font": "german1",
+            "h1": "Anmelden",
+            "b1": "Eingeben",
+            "b2": "Passwort vergessen?",
+            "b3": "Registrieren",
+            "i1": "Benutzername oder E-Mail",
+            "i2": "Passwort",
+            "username": {
+                "usernameOrEmailWrong": "Benutzername oder E-Mail nicht gefunden"
+            },
+            "password": {
+                "passwordWrong": "Falsches Passwort"
+            }
+        }
+    },
+    "es": {
+        "head": {
+            "siteLanguage": "es",
+            "description": "Describe tu aplicación",
+            "keywords": "Palabras clave para hacer que tu sitio web sea más fácil de encontrar",
+            "siteName": "Nombre de tu aplicación",
+            "title": "Iniciar sesión"
+        },
+        "body": {
+            "font": "spanish1",
+            "h1": "Iniciar sesión",
+            "b1": "Ingresar",
+            "b2": "¿Olvidaste la contraseña?",
+            "b3": "Registrarse",
+            "i1": "Nombre de usuario o Email",
+            "i2": "Contraseña",
+            "username": {
+                "usernameOrEmailWrong": "No se encontró el nombre de usuario o el correo electrónico"
+            },
+            "password": {
+                "passwordWrong": "Contraseña incorrecta"
+            }
+        }
+    },
+    "it": {
+        "head": {
+            "siteLanguage": "it",
+            "description": "Descrivi la tua app",
+            "keywords": "Parole chiave per rendere il tuo sito più facile da trovare",
+            "siteName": "Nome della tua app",
+            "title": "Accedi"
+        },
+        "body": {
+            "font": "italian1",
+            "h1": "Accedi",
+            "b1": "Inserisci",
+            "b2": "Hai dimenticato la password?",
+            "b3": "Registrati",
+            "i1": "Nome utente o Email",
+            "i2": "Password",
+            "username": {
+                "usernameOrEmailWrong": "Nome utente o email non trovato"
+            },
+            "password": {
+                "passwordWrong": "Password errata"
+            }
+        }
+    }
+}
