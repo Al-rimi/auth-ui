@@ -1,4 +1,4 @@
-var canvas = document.getElementById('beerCanvas');
+var canvas = document.getElementById('akCanvas');
 var ctx = canvas.getContext('2d');
 var particles = [];
 var particleCount = 140;
@@ -19,7 +19,7 @@ function resizeCanvas() {
 function particle() {
     this.x = Math.random() * canvas.width;
     this.y = canvas.height + Math.random() * 100;
-    this.speed = Math.random() * 10;
+    this.speed = Math.random() + 1;
     this.radius = Math.random() * 20;
     this.opacity = Math.random() / 10;
 }
@@ -34,7 +34,7 @@ function loop() {
 }
 
 function draw() {
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.clearRect(0, 0, canvas.width + 10, canvas.height + 10);
     ctx.globalCompositeOperation = 'lighter';
     for (var i = 0; i < particles.length; i++) {
         var p = particles[i];

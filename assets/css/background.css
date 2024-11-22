@@ -38,7 +38,7 @@ body:after {
 }
 
 /* Background Canvas */
-#beerCanvas {
+#akCanvas {
     position: absolute;
     top: 0;
     left: 0;
