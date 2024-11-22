@@ -100,17 +100,8 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute it as per the terms of the license.
 
 ---
 
 🎉 **Enjoy using auth-UI to build your next amazing project!**  
 For support or suggestions, please contact [abdullah@syalux.com](mailto:abdullah@syalux.com).
-```
-
-### Steps to Use:
-- Update the placeholder for the live demo URL.
-- Add a license file if you haven't already.
-- Include the logo/image URL or create one that represents your project.
-
-Let me know if you'd like further refinements!
