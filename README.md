@@ -1,6 +1,6 @@
 # auth-UI
 
-**auth-UI** is a modern and customizable authentication user interface designed for web applications. It is implemented using **vanilla JavaScript** and **vanilla CSS**, making it lightweight and easy to integrate into any framework. This UI is fully responsive and includes features like multi-language support, input validation, and engaging animations.
+Authentication user interface designed for web applications. It is implemented using **vanilla JavaScript** and **vanilla CSS**, making it lightweight and easy to integrate into any framework. This UI is fully responsive and includes features like multi-language support, input validation, and engaging animations.
 
 👉 **[Live Login Page](https://demo.syalux.com/auth-ui/login.html)**
 
