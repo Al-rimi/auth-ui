@@ -8,6 +8,7 @@ Authentication user interface designed for web applications. It is implemented u
 
 <br>
 
+
 ## 🌟 Features
 
 - **Framework-Ready**: Can be easily implemented into any framework or standalone project.  
